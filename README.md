@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ubauch and head of Raice.de
-- 👀 I’m interested in Java, Scripts and and data exchange solutions
-- 🌱 I’m currently learning ki and machine laerning with aws services
+- 👋 Hi, I’m @ubauch, head of Raice.de and the world knows me as a software architect
+- 👀 I’m interested in Java, Scripts and data exchange solutions
+- 🌱 I’m currently learning ki and machine learning with aws services
 - 💞️ I’m looking to collaborate on new exchange solutions for ML data
 - 📫 How to reach me is easy, just share on github, raice.de or send mail at info@raice.de
 
